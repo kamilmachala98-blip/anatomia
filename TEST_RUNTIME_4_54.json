@@ -1,0 +1,20 @@
+{
+  "initial_header": "Anatomia z Graya 4.54 — Dół pachowy",
+  "initial_figure": 1,
+  "top_nav": 1,
+  "triage_count": 104,
+  "risk_count": 2,
+  "filtered_count": 1,
+  "after_click_tab": "atlas",
+  "selected": "axillary_artery",
+  "marker_visible": 1,
+  "flagged_now": 1,
+  "quiz_question": 4,
+  "flash": 1,
+  "3d_iframe": 1,
+  "errors": [],
+  "3d_items": 20,
+  "3d_report": "Domyślny model\t20 osobnych siatek\nTrójkąty\t1053\nWybrana siatka\tbrak\nTrójkąty wybranej\t—\nPoziom wiarygodności\tpoglądowa geometria",
+  "3d_selected_report": "Domyślny model\t20 osobnych siatek\nTrójkąty\t1053\nWybrana siatka\tŁopatka — Scapula\nTrójkąty wybranej\t7\nPoziom wiarygodności\tpoglądowa geometria",
+  "3d_errors": []
+}

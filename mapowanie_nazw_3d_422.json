@@ -1,0 +1,68 @@
+{
+  "version": "4.23",
+  "disclaimer": "Geometria wyłącznie demonstracyjna, niezweryfikowana anatomicznie. Nazwy odpowiadają zamierzonej strukturze, a nie potwierdzonej geometrii.",
+  "mesh_mapping": [
+    {
+      "mesh_id": "scapula",
+      "pl": "Łopatka",
+      "la": "Scapula",
+      "en": "Scapula",
+      "kind": "bone",
+      "geometry_verified": false
+    },
+    {
+      "mesh_id": "scapular_spine",
+      "pl": "Grzebień łopatki",
+      "la": "Spina scapulae",
+      "en": "Spine of scapula",
+      "kind": "bone",
+      "geometry_verified": false
+    },
+    {
+      "mesh_id": "clavicle",
+      "pl": "Obojczyk",
+      "la": "Clavicula",
+      "en": "Clavicle",
+      "kind": "bone",
+      "geometry_verified": false
+    },
+    {
+      "mesh_id": "humerus",
+      "pl": "Kość ramienna",
+      "la": "Humerus",
+      "en": "Humerus",
+      "kind": "bone",
+      "geometry_verified": false
+    },
+    {
+      "mesh_id": "infraspinatus",
+      "pl": "Mięsień podgrzebieniowy",
+      "la": "Musculus infraspinatus",
+      "en": "Infraspinatus",
+      "kind": "muscle",
+      "geometry_verified": false
+    },
+    {
+      "mesh_id": "supraspinatus",
+      "pl": "Mięsień nadgrzebieniowy",
+      "la": "Musculus supraspinatus",
+      "en": "Supraspinatus",
+      "kind": "muscle",
+      "geometry_verified": false
+    },
+    {
+      "mesh_id": "teres_major",
+      "pl": "Mięsień obły większy",
+      "la": "Musculus teres major",
+      "en": "Teres major",
+      "kind": "muscle",
+      "geometry_verified": false
+    }
+  ],
+  "exact_2d_atlas_links": {
+    "clavicle": "clavicle",
+    "supraspinatus": "supraspinatus",
+    "infraspinatus": "infraspinatus",
+    "teres_major": "teres_major"
+  }
+}

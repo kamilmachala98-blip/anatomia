@@ -1,0 +1,305 @@
+{
+  "method": "perceptual dHash 64-bit; threshold<=4; candidate similarity, not equality",
+  "candidates": [
+    {
+      "a": "a_clean_high_detail_anatomical_illustration_on_a_3_batch_3",
+      "b": "hand_dorsal_hyper",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "a_clean_white_background_studio_style_medical_illu_4_batch_4",
+      "b": "dlon_palm_414",
+      "distance": 1,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "a_clean_white_background_studio_style_medical_illu_4_batch_4",
+      "b": "hand_palmar_detail",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "a_clean_white_very_light_background_studio_medica_1_batch_1",
+      "b": "bark_przedni_duzy_414",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "a_clean_white_very_light_background_studio_medica_1_batch_1",
+      "b": "shoulder_anterior_detail",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "anatomical_sample",
+      "b": "przedramie_medyczne_414",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "bark_pacha_414",
+      "b": "shoulder_axilla_detail",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "bark_pacha_414",
+      "b": "staw_pacha_415",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "bark_pacha_418",
+      "b": "pacha_warstwowa_415",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "bark_przedni_duzy_414",
+      "b": "shoulder_anterior_detail",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "bark_stozek_415",
+      "b": "bark_tyl_414",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "bark_stozek_415",
+      "b": "shoulder_posterior_detail",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "bark_tyl_414",
+      "b": "shoulder_posterior_detail",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "bark_tyl_418",
+      "b": "bark_tylne_415",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "dlon_dwa_widoki_414",
+      "b": "dlon_dwustronna_415",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "dlon_dwa_widoki_414",
+      "b": "forearm",
+      "distance": 4,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "dlon_dwa_widoki_414",
+      "b": "hand",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "dlon_dwa_widoki_414",
+      "b": "hand_pair",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "dlon_dwa_widoki_414",
+      "b": "hand_pair_detail",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "dlon_dwustronna_415",
+      "b": "forearm",
+      "distance": 4,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "dlon_dwustronna_415",
+      "b": "hand",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "dlon_dwustronna_415",
+      "b": "hand_pair",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "dlon_dwustronna_415",
+      "b": "hand_pair_detail",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "dlon_neuro_415",
+      "b": "dłon_palm_418",
+      "distance": 1,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "dlon_neuro_415",
+      "b": "forearm_dorsal_hyper",
+      "distance": 4,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "dlon_palm_414",
+      "b": "hand_palmar_detail",
+      "distance": 1,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "dlon_przedramie_415",
+      "b": "forearm_palmar_detail",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "dlon_przedramie_415",
+      "b": "przedramie_palmarne_414",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "forearm",
+      "b": "hand",
+      "distance": 4,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "forearm",
+      "b": "hand_pair",
+      "distance": 4,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "forearm",
+      "b": "hand_pair_detail",
+      "distance": 4,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "forearm_dorsal_hyper",
+      "b": "forearm_palmar_hyper",
+      "distance": 3,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "forearm_dorsal_hyper",
+      "b": "przedramie_atlas_414",
+      "distance": 2,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "forearm_dorsal_new",
+      "b": "przedramie_widok_414",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "forearm_oblique_detail",
+      "b": "przedramie_grzbiet_414",
+      "distance": 1,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "forearm_oblique_detail",
+      "b": "przedramie_z_bliska_415",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "forearm_palmar_detail",
+      "b": "przedramie_palmarne_414",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "forearm_palmar_hyper",
+      "b": "przedramie_atlas_414",
+      "distance": 3,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "hand",
+      "b": "hand_pair",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "hand",
+      "b": "hand_pair_detail",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "hand_pair",
+      "b": "hand_pair_detail",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "przedramie_grzbiet_414",
+      "b": "przedramie_z_bliska_415",
+      "distance": 1,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "przedramie_grzbietowe_415",
+      "b": "przedramie_tyl_418",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "ramie_calosc_414",
+      "b": "ramie_rozszerzone_415",
+      "distance": 2,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "ramie_calosc_414",
+      "b": "shoulder_complete",
+      "distance": 1,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "ramie_calosc_414",
+      "b": "upper",
+      "distance": 1,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "ramie_rozszerzone_415",
+      "b": "shoulder_complete",
+      "distance": 3,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "ramie_rozszerzone_415",
+      "b": "upper",
+      "distance": 3,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "shoulder_axilla_detail",
+      "b": "staw_pacha_415",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    },
+    {
+      "a": "shoulder_complete",
+      "b": "upper",
+      "distance": 0,
+      "review": "similarity-only; do not remove without visual comparison"
+    }
+  ]
+}

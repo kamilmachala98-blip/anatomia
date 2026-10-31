@@ -1,0 +1,62 @@
+[
+  {
+    "cycle": "4.45",
+    "name": "Kontrola ciągłości rycin",
+    "changes": "Kontrola wszystkich obrazów i sum SHA-256; zachowane dotychczasowe pliki.",
+    "tests_or_evidence": "96 / 96 plików i sum zgodnych"
+  },
+  {
+    "cycle": "4.46",
+    "name": "Wykrywanie powtórzeń",
+    "changes": "Percepcyjne porównanie 96 rycin, bez automatycznego usuwania podobnych ujęć.",
+    "tests_or_evidence": "50 par podobnych"
+  },
+  {
+    "cycle": "4.47",
+    "name": "Reguły topografii",
+    "changes": "Zapis reguł dotyczących stożka rotatorów, pachy i warstw zginaczy z rozróżnieniem źródła od obrazu.",
+    "tests_or_evidence": "3 jawne zestawy kontrolne"
+  },
+  {
+    "cycle": "4.48",
+    "name": "Priorytety wskazań",
+    "changes": "Ocena ryzyka dla każdego historycznego punktu, oddzielona od statusu walidacji.",
+    "tests_or_evidence": "104 aktywne punkty; wysokie 2"
+  },
+  {
+    "cycle": "4.49",
+    "name": "Źródło i priorytet przy strzałce",
+    "changes": "Każda widoczna strzałka otrzymuje priorytet kontroli i informację o niezweryfikowanym pochodzeniu.",
+    "tests_or_evidence": "Kod etykiet i nagłówka zmieniony"
+  },
+  {
+    "cycle": "4.50",
+    "name": "Czytelne etykiety",
+    "changes": "Prawostronne kotwiczenie podpisów blisko krawędzi obrazu; ograniczenie szerokości, wspólna powierzchnia współrzędnych.",
+    "tests_or_evidence": "Podpisy nie wychodzą poza powierzchnię obrazu"
+  },
+  {
+    "cycle": "4.51",
+    "name": "Panel kontroli rycin",
+    "changes": "Filtry priorytetów, wyszukiwanie PL/LA, otwieranie właściwego obrazu, zgłoszenie, eksport CSV.",
+    "tests_or_evidence": "Kontroler powiązany z atlasem i lokalnym audytem"
+  },
+  {
+    "cycle": "4.52",
+    "name": "Metryka geometrii 3D",
+    "changes": "Tabela nazw, kategorii, liczby trójkątów, bounding-box oraz eksport manifestu; zaznaczony status demonstracyjny.",
+    "tests_or_evidence": "20 siatek, 1053 trójkątów"
+  },
+  {
+    "cycle": "4.53",
+    "name": "Rozdzielenie nauki od walidacji",
+    "changes": "Quiz nazwany terminologicznym; status rycin i modeli nie jest automatycznie promowany.",
+    "tests_or_evidence": "Jawne ostrzeżenia w ekranach nauki i kontroli"
+  },
+  {
+    "cycle": "4.54",
+    "name": "Scalenie i przygotowanie testów",
+    "changes": "Zintegrowany atlas, 3D, priorytety audytu, źródła i raport 10 cykli.",
+    "tests_or_evidence": "Pliki aplikacji zapisane"
+  }
+]

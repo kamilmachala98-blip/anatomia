@@ -1,0 +1,188 @@
+{
+  "version": "4.44",
+  "verifiedAnatomy": false,
+  "sourceMesh": "Autorski model parametryczny w oparciu o podstawowe relacje topograficzne z Gray t1 PDF s.393, 419 i 437; nie użyto geometrii z atlasów",
+  "geometryUnits": "schematic; not metric",
+  "meshes": [
+    {
+      "id": "scapula",
+      "pl": "Łopatka",
+      "la": "Scapula",
+      "en": "Scapula",
+      "category": "bone",
+      "confidence": "topology-schematic",
+      "note": "Poglądowy płaski trzon łopatki, nie segmentacja 3D."
+    },
+    {
+      "id": "scapular_spine",
+      "pl": "Grzebień łopatki",
+      "la": "Spina scapulae",
+      "en": "Spine of scapula",
+      "category": "bone",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "acromion",
+      "pl": "Wyrostek barkowy",
+      "la": "Acromion",
+      "en": "Acromion",
+      "category": "bone",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "coracoid",
+      "pl": "Wyrostek kruczy",
+      "la": "Processus coracoideus",
+      "en": "Coracoid process",
+      "category": "bone",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "clavicle",
+      "pl": "Obojczyk",
+      "la": "Clavicula",
+      "en": "Clavicle",
+      "category": "bone",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "glenoid_cavity",
+      "pl": "Wydrążenie stawowe łopatki (model)",
+      "la": "Cavitas glenoidalis",
+      "en": "Glenoid cavity",
+      "category": "bone",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "humerus",
+      "pl": "Kość ramienna — trzon",
+      "la": "Humerus",
+      "en": "Humerus",
+      "category": "bone",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "humeral_head",
+      "pl": "Głowa kości ramiennej",
+      "la": "Caput humeri",
+      "en": "Head of humerus",
+      "category": "bone",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "greater_tubercle",
+      "pl": "Guzek większy kości ramiennej",
+      "la": "Tuberculum majus",
+      "en": "Greater tubercle",
+      "category": "bone",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "supraspinatus",
+      "pl": "Mięsień nadgrzebieniowy",
+      "la": "Musculus supraspinatus",
+      "en": "Supraspinatus",
+      "category": "muscle",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "infraspinatus",
+      "pl": "Mięsień podgrzebieniowy",
+      "la": "Musculus infraspinatus",
+      "en": "Infraspinatus",
+      "category": "muscle",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "teres_minor",
+      "pl": "Mięsień obły mniejszy",
+      "la": "Musculus teres minor",
+      "en": "Teres minor",
+      "category": "muscle",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "teres_major",
+      "pl": "Mięsień obły większy",
+      "la": "Musculus teres major",
+      "en": "Teres major",
+      "category": "muscle",
+      "confidence": "topology-schematic",
+      "note": "Nie należy do stożka rotatorów."
+    },
+    {
+      "id": "subscapularis",
+      "pl": "Mięsień podłopatkowy",
+      "la": "Musculus subscapularis",
+      "en": "Subscapularis",
+      "category": "muscle",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "deltoid",
+      "pl": "Mięsień naramienny — model poglądowy",
+      "la": "Musculus deltoideus",
+      "en": "Deltoid",
+      "category": "muscle",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "biceps_brachii",
+      "pl": "Mięsień dwugłowy ramienia (brzusiec)",
+      "la": "Musculus biceps brachii",
+      "en": "Biceps brachii",
+      "category": "muscle",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "triceps_long",
+      "pl": "Głowa długa mięśnia trójgłowego ramienia",
+      "la": "Caput longum musculi tricipitis brachii",
+      "en": "Long head of triceps",
+      "category": "muscle",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "axillary_artery",
+      "pl": "Tętnica pachowa (schemat przebiegu)",
+      "la": "Arteria axillaris",
+      "en": "Axillary artery",
+      "category": "vessel",
+      "confidence": "topology-schematic",
+      "note": "Uproszczony przebieg, nie schemat wszystkich gałęzi."
+    },
+    {
+      "id": "axillary_vein",
+      "pl": "Żyła pachowa (schemat)",
+      "la": "Vena axillaris",
+      "en": "Axillary vein",
+      "category": "vessel",
+      "confidence": "topology-schematic",
+      "note": ""
+    },
+    {
+      "id": "median_nerve",
+      "pl": "Nerw pośrodkowy (schemat)",
+      "la": "Nervus medianus",
+      "en": "Median nerve",
+      "category": "nerve",
+      "confidence": "topology-schematic",
+      "note": "Uproszczone położenie, nie model splotu ramiennego."
+    }
+  ]
+}

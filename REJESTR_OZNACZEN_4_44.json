@@ -1,0 +1,1445 @@
+{
+  "forearm_dorsal_new|ecrl": {
+    "image": "forearm_dorsal_new",
+    "structure": "ecrl",
+    "xy": [
+      0.71925,
+      0.28959,
+      0.74688,
+      0.22825
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_dorsal_new|extensor_digitorum": {
+    "image": "forearm_dorsal_new",
+    "structure": "extensor_digitorum",
+    "xy": [
+      0.54011,
+      0.36448,
+      0.73262,
+      0.37447
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_dorsal_new|ecu": {
+    "image": "forearm_dorsal_new",
+    "structure": "ecu",
+    "xy": [
+      0.39661,
+      0.39943,
+      0.08913,
+      0.37946
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_dorsal_new|anconeus": {
+    "image": "forearm_dorsal_new",
+    "structure": "anconeus",
+    "xy": [
+      0.46346,
+      0.13338,
+      0.082,
+      0.10556
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_dorsal_close|ecrl": {
+    "image": "forearm_dorsal_close",
+    "structure": "ecrl",
+    "xy": [
+      0.73562,
+      0.39318,
+      0.75068,
+      0.23636
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_dorsal_close|extensor_digitorum": {
+    "image": "forearm_dorsal_close",
+    "structure": "extensor_digitorum",
+    "xy": [
+      0.46164,
+      0.5125,
+      0.66712,
+      0.54545
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_dorsal_close|ecu": {
+    "image": "forearm_dorsal_close",
+    "structure": "ecu",
+    "xy": [
+      0.23973,
+      0.56818,
+      0.02192,
+      0.54545
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_anterior_detail|deltoid": {
+    "image": "shoulder_anterior_detail",
+    "structure": "deltoid",
+    "xy": [
+      0.2,
+      0.18,
+      0.06,
+      0.18
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_anterior_detail|pectoralis_major": {
+    "image": "shoulder_anterior_detail",
+    "structure": "pectoralis_major",
+    "xy": [
+      0.83,
+      0.31,
+      0.67,
+      0.18
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_anterior_detail|clavicle": {
+    "image": "shoulder_anterior_detail",
+    "structure": "clavicle",
+    "xy": [
+      0.63,
+      0.07,
+      0.72,
+      0.06
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_posterior_detail|infraspinatus": {
+    "image": "shoulder_posterior_detail",
+    "structure": "infraspinatus",
+    "xy": [
+      0.43,
+      0.36,
+      0.1,
+      0.35
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_posterior_detail|teres_minor": {
+    "image": "shoulder_posterior_detail",
+    "structure": "teres_minor",
+    "xy": [
+      0.5,
+      0.52,
+      0.09,
+      0.54
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_posterior_detail|teres_major": {
+    "image": "shoulder_posterior_detail",
+    "structure": "teres_major",
+    "xy": [
+      0.45,
+      0.61,
+      0.09,
+      0.66
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_posterior_detail|deltoid_post": {
+    "image": "shoulder_posterior_detail",
+    "structure": "deltoid_post",
+    "xy": [
+      0.87,
+      0.33,
+      0.7,
+      0.15
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_posterior_hyper|infraspinatus": {
+    "image": "shoulder_posterior_hyper",
+    "structure": "infraspinatus",
+    "xy": [
+      0.47,
+      0.35,
+      0.13,
+      0.34
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_posterior_hyper|teres_major": {
+    "image": "shoulder_posterior_hyper",
+    "structure": "teres_major",
+    "xy": [
+      0.48,
+      0.58,
+      0.12,
+      0.6
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_posterior_hyper|deltoid_post": {
+    "image": "shoulder_posterior_hyper",
+    "structure": "deltoid_post",
+    "xy": [
+      0.88,
+      0.29,
+      0.72,
+      0.18
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_axilla_hyper|clavicle": {
+    "image": "shoulder_axilla_hyper",
+    "structure": "clavicle",
+    "xy": [
+      0.7,
+      0.1,
+      0.74,
+      0.05
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_axilla_hyper|coracoid": {
+    "image": "shoulder_axilla_hyper",
+    "structure": "coracoid",
+    "xy": [
+      0.52,
+      0.18,
+      0.22,
+      0.12
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_axilla_hyper|deltoid": {
+    "image": "shoulder_axilla_hyper",
+    "structure": "deltoid",
+    "xy": [
+      0.13,
+      0.23,
+      0.06,
+      0.34
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_axilla_hyper|pectoralis_major": {
+    "image": "shoulder_axilla_hyper",
+    "structure": "pectoralis_major",
+    "xy": [
+      0.86,
+      0.37,
+      0.77,
+      0.47
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_axilla_detail|coracoid": {
+    "image": "shoulder_axilla_detail",
+    "structure": "coracoid",
+    "xy": [
+      0.52,
+      0.16,
+      0.18,
+      0.12
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_axilla_detail|deltoid": {
+    "image": "shoulder_axilla_detail",
+    "structure": "deltoid",
+    "xy": [
+      0.12,
+      0.24,
+      0.06,
+      0.3
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "shoulder_axilla_detail|pectoralis_major": {
+    "image": "shoulder_axilla_detail",
+    "structure": "pectoralis_major",
+    "xy": [
+      0.87,
+      0.38,
+      0.72,
+      0.48
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_palmar_hyper|pronator_teres": {
+    "image": "forearm_palmar_hyper",
+    "structure": "pronator_teres",
+    "xy": [
+      0.56,
+      0.19,
+      0.1,
+      0.1
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_palmar_hyper|palmaris_longus": {
+    "image": "forearm_palmar_hyper",
+    "structure": "palmaris_longus",
+    "xy": [
+      0.59,
+      0.42,
+      0.13,
+      0.41
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_palmar_hyper|brachioradialis": {
+    "image": "forearm_palmar_hyper",
+    "structure": "brachioradialis",
+    "xy": [
+      0.43,
+      0.32,
+      0.07,
+      0.27
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_palmar_hyper|thenar_muscles": {
+    "image": "forearm_palmar_hyper",
+    "structure": "thenar_muscles",
+    "xy": [
+      0.36,
+      0.69,
+      0.07,
+      0.75
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_palmar_hyper|palmar_aponeurosis": {
+    "image": "forearm_palmar_hyper",
+    "structure": "palmar_aponeurosis",
+    "xy": [
+      0.52,
+      0.72,
+      0.73,
+      0.74
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_dorsal_hyper|extensor_digitorum": {
+    "image": "forearm_dorsal_hyper",
+    "structure": "extensor_digitorum",
+    "xy": [
+      0.56,
+      0.34,
+      0.07,
+      0.35
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_dorsal_hyper|extensor_retinaculum": {
+    "image": "forearm_dorsal_hyper",
+    "structure": "extensor_retinaculum",
+    "xy": [
+      0.53,
+      0.58,
+      0.73,
+      0.58
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_dorsal_hyper|extensor_tendons_hand": {
+    "image": "forearm_dorsal_hyper",
+    "structure": "extensor_tendons_hand",
+    "xy": [
+      0.55,
+      0.73,
+      0.75,
+      0.71
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_oblique_detail|extensor_digitorum": {
+    "image": "forearm_oblique_detail",
+    "structure": "extensor_digitorum",
+    "xy": [
+      0.58,
+      0.3,
+      0.7,
+      0.33
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "forearm_oblique_detail|extensor_retinaculum": {
+    "image": "forearm_oblique_detail",
+    "structure": "extensor_retinaculum",
+    "xy": [
+      0.53,
+      0.58,
+      0.68,
+      0.55
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "elbow_cubital_hyper|pronator_teres": {
+    "image": "elbow_cubital_hyper",
+    "structure": "pronator_teres",
+    "xy": [
+      0.59,
+      0.56,
+      0.72,
+      0.55
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "elbow_cubital_hyper|brachioradialis": {
+    "image": "elbow_cubital_hyper",
+    "structure": "brachioradialis",
+    "xy": [
+      0.17,
+      0.52,
+      0.05,
+      0.47
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "hand_palmar_detail|thenar_muscles": {
+    "image": "hand_palmar_detail",
+    "structure": "thenar_muscles",
+    "xy": [
+      0.32,
+      0.42,
+      0.08,
+      0.38
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "hand_palmar_detail|hypothenar_muscles": {
+    "image": "hand_palmar_detail",
+    "structure": "hypothenar_muscles",
+    "xy": [
+      0.77,
+      0.48,
+      0.7,
+      0.58
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "hand_palmar_detail|palmar_aponeurosis": {
+    "image": "hand_palmar_detail",
+    "structure": "palmar_aponeurosis",
+    "xy": [
+      0.52,
+      0.57,
+      0.73,
+      0.56
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "hand_palmar_detail|flexor_tendons": {
+    "image": "hand_palmar_detail",
+    "structure": "flexor_tendons",
+    "xy": [
+      0.56,
+      0.25,
+      0.71,
+      0.2
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "hand_cross_hyper|thenar_muscles": {
+    "image": "hand_cross_hyper",
+    "structure": "thenar_muscles",
+    "xy": [
+      0.3,
+      0.35,
+      0.07,
+      0.35
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "hand_cross_hyper|palmar_aponeurosis": {
+    "image": "hand_cross_hyper",
+    "structure": "palmar_aponeurosis",
+    "xy": [
+      0.55,
+      0.43,
+      0.7,
+      0.42
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "hand_dorsal_hyper|extensor_retinaculum": {
+    "image": "hand_dorsal_hyper",
+    "structure": "extensor_retinaculum",
+    "xy": [
+      0.51,
+      0.27,
+      0.72,
+      0.24
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "hand_dorsal_hyper|extensor_tendons_hand": {
+    "image": "hand_dorsal_hyper",
+    "structure": "extensor_tendons_hand",
+    "xy": [
+      0.57,
+      0.57,
+      0.72,
+      0.54
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "hand_dorsal_hyper|dorsal_venous_network": {
+    "image": "hand_dorsal_hyper",
+    "structure": "dorsal_venous_network",
+    "xy": [
+      0.41,
+      0.47,
+      0.11,
+      0.47
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_przedni_414|deltoid": {
+    "image": "bark_przedni_414",
+    "structure": "deltoid",
+    "xy": [
+      0.24,
+      0.23,
+      0.07,
+      0.16
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_przedni_414|pectoralis_major": {
+    "image": "bark_przedni_414",
+    "structure": "pectoralis_major",
+    "xy": [
+      0.82,
+      0.38,
+      0.7,
+      0.26
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_przedni_414|clavicle": {
+    "image": "bark_przedni_414",
+    "structure": "clavicle",
+    "xy": [
+      0.62,
+      0.075,
+      0.72,
+      0.095
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_pacha_414|deltoid": {
+    "image": "bark_pacha_414",
+    "structure": "deltoid",
+    "xy": [
+      0.25,
+      0.23,
+      0.08,
+      0.15
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_pacha_414|pectoralis_major": {
+    "image": "bark_pacha_414",
+    "structure": "pectoralis_major",
+    "xy": [
+      0.85,
+      0.35,
+      0.72,
+      0.42
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_tyl_414|infraspinatus": {
+    "image": "bark_tyl_414",
+    "structure": "infraspinatus",
+    "xy": [
+      0.51,
+      0.42,
+      0.11,
+      0.43
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_tyl_414|teres_major": {
+    "image": "bark_tyl_414",
+    "structure": "teres_major",
+    "xy": [
+      0.5,
+      0.59,
+      0.1,
+      0.67
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_tyl_414|deltoid_post": {
+    "image": "bark_tyl_414",
+    "structure": "deltoid_post",
+    "xy": [
+      0.8,
+      0.28,
+      0.71,
+      0.15
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_przedni_duzy_414|deltoid": {
+    "image": "bark_przedni_duzy_414",
+    "structure": "deltoid",
+    "xy": [
+      0.21,
+      0.22,
+      0.08,
+      0.15
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_przedni_duzy_414|pectoralis_major": {
+    "image": "bark_przedni_duzy_414",
+    "structure": "pectoralis_major",
+    "xy": [
+      0.78,
+      0.3,
+      0.65,
+      0.25
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_przedni_duzy_414|clavicle": {
+    "image": "bark_przedni_duzy_414",
+    "structure": "clavicle",
+    "xy": [
+      0.62,
+      0.085,
+      0.68,
+      0.08
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "przedramie_grzbiet_414|extensor_digitorum": {
+    "image": "przedramie_grzbiet_414",
+    "structure": "extensor_digitorum",
+    "xy": [
+      0.55,
+      0.33,
+      0.15,
+      0.33
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "przedramie_grzbiet_414|extensor_retinaculum": {
+    "image": "przedramie_grzbiet_414",
+    "structure": "extensor_retinaculum",
+    "xy": [
+      0.53,
+      0.58,
+      0.71,
+      0.59
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "dlon_grzbiet_414|extensor_retinaculum": {
+    "image": "dlon_grzbiet_414",
+    "structure": "extensor_retinaculum",
+    "xy": [
+      0.54,
+      0.13,
+      0.74,
+      0.14
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "dlon_grzbiet_414|extensor_tendons_hand": {
+    "image": "dlon_grzbiet_414",
+    "structure": "extensor_tendons_hand",
+    "xy": [
+      0.54,
+      0.4,
+      0.73,
+      0.4
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "dlon_palm_414|thenar_muscles": {
+    "image": "dlon_palm_414",
+    "structure": "thenar_muscles",
+    "xy": [
+      0.27,
+      0.48,
+      0.06,
+      0.47
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "dlon_palm_414|palmar_aponeurosis": {
+    "image": "dlon_palm_414",
+    "structure": "palmar_aponeurosis",
+    "xy": [
+      0.53,
+      0.48,
+      0.74,
+      0.43
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "dlon_palm_414|flexor_tendons": {
+    "image": "dlon_palm_414",
+    "structure": "flexor_tendons",
+    "xy": [
+      0.54,
+      0.67,
+      0.72,
+      0.66
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "przedramie_palmarne_414|pronator_teres": {
+    "image": "przedramie_palmarne_414",
+    "structure": "pronator_teres",
+    "xy": [
+      0.53,
+      0.18,
+      0.13,
+      0.14
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "przedramie_palmarne_414|palmaris_longus": {
+    "image": "przedramie_palmarne_414",
+    "structure": "palmaris_longus",
+    "xy": [
+      0.49,
+      0.45,
+      0.12,
+      0.45
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "przedramie_widok_414|pronator_teres": {
+    "image": "przedramie_widok_414",
+    "structure": "pronator_teres",
+    "xy": [
+      0.58,
+      0.19,
+      0.12,
+      0.16
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "przedramie_atlas_414|pronator_teres": {
+    "image": "przedramie_atlas_414",
+    "structure": "pronator_teres",
+    "xy": [
+      0.55,
+      0.18,
+      0.11,
+      0.15
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "pacha_warstwowa_415|deltoid": {
+    "image": "pacha_warstwowa_415",
+    "structure": "deltoid",
+    "xy": [
+      0.19,
+      0.29,
+      0.05,
+      0.2
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "pacha_warstwowa_415|pectoralis_major": {
+    "image": "pacha_warstwowa_415",
+    "structure": "pectoralis_major",
+    "xy": [
+      0.84,
+      0.48,
+      0.68,
+      0.54
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "pacha_warstwowa_415|clavicle": {
+    "image": "pacha_warstwowa_415",
+    "structure": "clavicle",
+    "xy": [
+      0.59,
+      0.11,
+      0.67,
+      0.06
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_tylne_415|infraspinatus": {
+    "image": "bark_tylne_415",
+    "structure": "infraspinatus",
+    "xy": [
+      0.4,
+      0.27,
+      0.08,
+      0.31
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_tylne_415|teres_major": {
+    "image": "bark_tylne_415",
+    "structure": "teres_major",
+    "xy": [
+      0.46,
+      0.45,
+      0.1,
+      0.48
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_tylne_415|deltoid_post": {
+    "image": "bark_tylne_415",
+    "structure": "deltoid_post",
+    "xy": [
+      0.88,
+      0.34,
+      0.69,
+      0.24
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "przedramie_grzbietowe_415|extensor_retinaculum": {
+    "image": "przedramie_grzbietowe_415",
+    "structure": "extensor_retinaculum",
+    "xy": [
+      0.48,
+      0.58,
+      0.68,
+      0.55
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "przedramie_grzbietowe_415|extensor_tendons_hand": {
+    "image": "przedramie_grzbietowe_415",
+    "structure": "extensor_tendons_hand",
+    "xy": [
+      0.53,
+      0.73,
+      0.72,
+      0.71
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "dlon_neuro_415|thenar_muscles": {
+    "image": "dlon_neuro_415",
+    "structure": "thenar_muscles",
+    "xy": [
+      0.32,
+      0.72,
+      0.07,
+      0.73
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "dlon_neuro_415|palmar_aponeurosis": {
+    "image": "dlon_neuro_415",
+    "structure": "palmar_aponeurosis",
+    "xy": [
+      0.54,
+      0.7,
+      0.7,
+      0.66
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_stozek_zblizenie_416|infraspinatus": {
+    "image": "bark_stozek_zblizenie_416",
+    "structure": "infraspinatus",
+    "xy": [
+      0.37926,
+      0.28304,
+      0.64,
+      0.18804
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_stozek_zblizenie_416|teres_major": {
+    "image": "bark_stozek_zblizenie_416",
+    "structure": "teres_major",
+    "xy": [
+      0.44821,
+      0.58297,
+      0.64,
+      0.48797
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_stozek_zblizenie_416|deltoid_post": {
+    "image": "bark_stozek_zblizenie_416",
+    "structure": "deltoid_post",
+    "xy": [
+      0.93088,
+      0.39968,
+      0.1,
+      0.30468
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "lopatka_podgrzebieniowy_416|infraspinatus": {
+    "image": "lopatka_podgrzebieniowy_416",
+    "structure": "infraspinatus",
+    "xy": [
+      0.49988,
+      0.39183,
+      0.64,
+      0.29683
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "lopatka_podgrzebieniowy_416|teres_major": {
+    "image": "lopatka_podgrzebieniowy_416",
+    "structure": "teres_major",
+    "xy": [
+      0.58102,
+      0.78318,
+      0.1,
+      0.68818
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "pacha_peczek_416|pectoralis_major": {
+    "image": "pacha_peczek_416",
+    "structure": "pectoralis_major",
+    "xy": [
+      0.9425,
+      0.59008,
+      0.1,
+      0.49508
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "staw_ramienny_blisko_416|clavicle": {
+    "image": "staw_ramienny_blisko_416",
+    "structure": "clavicle",
+    "xy": [
+      0.9416,
+      0.09988,
+      0.1,
+      0.055
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "staw_ramienny_blisko_416|coracoid": {
+    "image": "staw_ramienny_blisko_416",
+    "structure": "coracoid",
+    "xy": [
+      0.68096,
+      0.23319,
+      0.1,
+      0.13819
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "staw_ramienny_blisko_416|deltoid": {
+    "image": "staw_ramienny_blisko_416",
+    "structure": "deltoid",
+    "xy": [
+      0.11624,
+      0.3165,
+      0.64,
+      0.2215
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "dol_lokciowy_blisko_416|pronator_teres": {
+    "image": "dol_lokciowy_blisko_416",
+    "structure": "pronator_teres",
+    "xy": [
+      0.59001,
+      0.7108,
+      0.1,
+      0.6158
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "dol_lokciowy_blisko_416|brachioradialis": {
+    "image": "dol_lokciowy_blisko_416",
+    "structure": "brachioradialis",
+    "xy": [
+      0.0515,
+      0.65815,
+      0.64,
+      0.56315
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "zginacze_przedramienia_416|pronator_teres": {
+    "image": "zginacze_przedramienia_416",
+    "structure": "pronator_teres",
+    "xy": [
+      0.51816,
+      0.22248,
+      0.64,
+      0.12748
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "zginacze_przedramienia_416|palmaris_longus": {
+    "image": "zginacze_przedramienia_416",
+    "structure": "palmaris_longus",
+    "xy": [
+      0.57366,
+      0.58725,
+      0.1,
+      0.49225
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "zginacze_przedramienia_416|brachioradialis": {
+    "image": "zginacze_przedramienia_416",
+    "structure": "brachioradialis",
+    "xy": [
+      0.27765,
+      0.42865,
+      0.64,
+      0.33365
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "nadgarstek_dlonowy_416|thenar_muscles": {
+    "image": "nadgarstek_dlonowy_416",
+    "structure": "thenar_muscles",
+    "xy": [
+      0.26128,
+      0.45773,
+      0.64,
+      0.36273
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "nadgarstek_dlonowy_416|palmar_aponeurosis": {
+    "image": "nadgarstek_dlonowy_416",
+    "structure": "palmar_aponeurosis",
+    "xy": [
+      0.49296,
+      0.52023,
+      0.64,
+      0.42523
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "prostowniki_nadgarstka_416|extensor_retinaculum": {
+    "image": "prostowniki_nadgarstka_416",
+    "structure": "extensor_retinaculum",
+    "xy": [
+      0.46846,
+      0.36028,
+      0.64,
+      0.26528
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "prostowniki_nadgarstka_416|extensor_tendons_hand": {
+    "image": "prostowniki_nadgarstka_416",
+    "structure": "extensor_tendons_hand",
+    "xy": [
+      0.49971,
+      0.66028,
+      0.64,
+      0.56528
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "grzbiet_reki_scięgna_416|extensor_retinaculum": {
+    "image": "grzbiet_reki_scięgna_416",
+    "structure": "extensor_retinaculum",
+    "xy": [
+      0.5122,
+      0.06796,
+      0.64,
+      0.055
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "grzbiet_reki_scięgna_416|extensor_tendons_hand": {
+    "image": "grzbiet_reki_scięgna_416",
+    "structure": "extensor_tendons_hand",
+    "xy": [
+      0.58537,
+      0.47316,
+      0.1,
+      0.37816
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "grzbiet_reki_scięgna_416|dorsal_venous_network": {
+    "image": "grzbiet_reki_scięgna_416",
+    "structure": "dorsal_venous_network",
+    "xy": [
+      0.39024,
+      0.33809,
+      0.64,
+      0.24309
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "dlon_kleb_416|thenar_muscles": {
+    "image": "dlon_kleb_416",
+    "structure": "thenar_muscles",
+    "xy": [
+      0.26852,
+      0.24322,
+      0.64,
+      0.14822
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "dlon_kleb_416|hypothenar_muscles": {
+    "image": "dlon_kleb_416",
+    "structure": "hypothenar_muscles",
+    "xy": [
+      0.81733,
+      0.32888,
+      0.1,
+      0.23388
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "dlon_kleb_416|palmar_aponeurosis": {
+    "image": "dlon_kleb_416",
+    "structure": "palmar_aponeurosis",
+    "xy": [
+      0.51243,
+      0.45737,
+      0.64,
+      0.36237
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_pacha_418|axillary_artery": {
+    "image": "bark_pacha_418",
+    "structure": "axillary_artery",
+    "xy": [
+      0.425,
+      0.528,
+      0.63,
+      0.54
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "podwyższone"
+  },
+  "bark_pacha_418|axillary_vein": {
+    "image": "bark_pacha_418",
+    "structure": "axillary_vein",
+    "xy": [
+      0.498,
+      0.368,
+      0.65,
+      0.33
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "podwyższone"
+  },
+  "bark_pacha_418|central_nodes": {
+    "image": "bark_pacha_418",
+    "structure": "central_nodes",
+    "xy": [
+      0.557,
+      0.592,
+      0.71,
+      0.61
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_tyl_418|infraspinatus": {
+    "image": "bark_tyl_418",
+    "structure": "infraspinatus",
+    "xy": [
+      0.423,
+      0.277,
+      0.07,
+      0.24
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_tyl_418|teres_major": {
+    "image": "bark_tyl_418",
+    "structure": "teres_major",
+    "xy": [
+      0.373,
+      0.448,
+      0.08,
+      0.51
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "bark_tyl_418|deltoid_post": {
+    "image": "bark_tyl_418",
+    "structure": "deltoid_post",
+    "xy": [
+      0.855,
+      0.31,
+      0.69,
+      0.17
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "dłon_palm_418|thenar_muscles": {
+    "image": "dłon_palm_418",
+    "structure": "thenar_muscles",
+    "xy": [
+      0.317,
+      0.705,
+      0.06,
+      0.79
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "dłon_palm_418|hypothenar_muscles": {
+    "image": "dłon_palm_418",
+    "structure": "hypothenar_muscles",
+    "xy": [
+      0.646,
+      0.692,
+      0.68,
+      0.76
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "dłon_palm_418|superficial_palmar_arch": {
+    "image": "dłon_palm_418",
+    "structure": "superficial_palmar_arch",
+    "xy": [
+      0.48,
+      0.695,
+      0.64,
+      0.63
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  },
+  "przedramie_tyl_418|extensor_digitorum": {
+    "image": "przedramie_tyl_418",
+    "structure": "extensor_digitorum",
+    "xy": [
+      0.493,
+      0.32,
+      0.68,
+      0.27
+    ],
+    "status": "orientacyjne — niezweryfikowane",
+    "source": "wcześniejsza ręczna kalibracja",
+    "risk": "standardowe"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "status": "semantic-names-only; NOT geospatial-registration",
+  "map": {
+    "clavicle": "clavicle",
+    "supraspinatus": "supraspinatus",
+    "infraspinatus": "infraspinatus",
+    "teres_minor": "teres_minor",
+    "teres_major": "teres_major",
+    "subscapularis": "subscapularis",
+    "deltoid": "deltoid",
+    "deltoid_post": "deltoid",
+    "axillary_artery": "axillary_artery",
+    "axillary_vein": "axillary_vein"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "points": 111,
+  "issues": [
+    {
+      "image_id": "shoulder_axilla_detail",
+      "structure_id": "coracoid",
+      "issues": [
+        "STRUKTURA SPOZA REJONU"
+      ]
+    },
+    {
+      "image_id": "shoulder_axilla_detail",
+      "structure_id": "deltoid",
+      "issues": [
+        "STRUKTURA SPOZA REJONU"
+      ]
+    },
+    {
+      "image_id": "shoulder_axilla_detail",
+      "structure_id": "pectoralis_major",
+      "issues": [
+        "STRUKTURA SPOZA REJONU"
+      ]
+    },
+    {
+      "image_id": "forearm_oblique_detail",
+      "structure_id": "extensor_retinaculum",
+      "issues": [
+        "STRUKTURA SPOZA REJONU"
+      ]
+    },
+    {
+      "image_id": "bark_pacha_414",
+      "structure_id": "deltoid",
+      "issues": [
+        "STRUKTURA SPOZA REJONU"
+      ]
+    },
+    {
+      "image_id": "bark_pacha_414",
+      "structure_id": "pectoralis_major",
+      "issues": [
+        "STRUKTURA SPOZA REJONU"
+      ]
+    },
+    {
+      "image_id": "przedramie_grzbiet_414",
+      "structure_id": "extensor_retinaculum",
+      "issues": [
+        "STRUKTURA SPOZA REJONU"
+      ]
+    }
+  ],
+  "notVerified": true
+}

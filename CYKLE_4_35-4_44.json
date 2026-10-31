@@ -1,0 +1,62 @@
+[
+  {
+    "wersja": "4.35",
+    "cel": "Inwentaryzacja ilustracji",
+    "zmiana": "96 grafik skatalogowanych, SHA-256, rozmiary i przynależność do okolic",
+    "kontrola": "Każdy z 96 plików istnieje i otwiera się"
+  },
+  {
+    "wersja": "4.36",
+    "cel": "Walidacja punktów",
+    "zmiana": "Walidator współrzędnych i zgodności ID region–rycina–struktura",
+    "kontrola": "Przeanalizowano wszystkie 111 aktywnych mapowań"
+  },
+  {
+    "wersja": "4.37",
+    "cel": "Przegląd topografii sześciu rycin",
+    "zmiana": "Ocena wstępna mięśni, nerwów, naczyń na wybranych ilustracjach; odniesienia Gray/Sobotta/Rohen",
+    "kontrola": "6 opisanych kart kontroli, 0 w pełni zweryfikowanych rycin"
+  },
+  {
+    "wersja": "4.38",
+    "cel": "Warstwy i terminologia",
+    "zmiana": "Reguły stożka rotatorów, dołu pachowego, przedramienia i dołu łokciowego",
+    "kontrola": "Zapisano cztery fiszki źródłowe z referencjami stronic"
+  },
+  {
+    "wersja": "4.39",
+    "cel": "Pochodzenie punktów",
+    "zmiana": "Wyraźne rozróżnienie punktów pierwotnych i poprawionych lokalnie",
+    "kontrola": "W obu przypadkach brak deklaracji weryfikacji medycznej"
+  },
+  {
+    "wersja": "4.40",
+    "cel": "Korekta punktów",
+    "zmiana": "Kopiowanie i walidacja współrzędnych; zachowanie dotychczasowego edytora kliknięciem",
+    "kontrola": "Ograniczenia [0,1] i związek image_id/structure_id"
+  },
+  {
+    "wersja": "4.41",
+    "cel": "Panel QA",
+    "zmiana": "Nowy ekran „Kontrola 4.44” z priorytetami weryfikacji i przeglądem aktywnej ryciny",
+    "kontrola": "Rejestr zachowuje rozdzielenie kontroli technicznej i anatomicznej"
+  },
+  {
+    "wersja": "4.42",
+    "cel": "Rozbudowa 3D",
+    "zmiana": "Nowy poglądowy GLB 20 nazwanych siatek i 2106 trójkątów; zachowany oryginalny GLB 7 siatek",
+    "kontrola": "Model poprawnie eksportuje się do GLB 2.0; geometria NIE jest klinicznie zweryfikowana"
+  },
+  {
+    "wersja": "4.43",
+    "cel": "Wiarygodność modelu 3D",
+    "zmiana": "Nadany status poglądowy + jawna proweniencja; rozszerzone mapowanie nazewnictwa do 10 nazw ID",
+    "kontrola": "Brak twierdzenia o dopasowaniu geometrii modelu do rycin"
+  },
+  {
+    "wersja": "4.44",
+    "cel": "Regresja i dokumentacja",
+    "zmiana": "Scalenie 10 cykli, rejestr rycin, punkty, topografia, GLB, prawa autorskie",
+    "kontrola": "Testy techniczne i raport w osobnych plikach"
+  }
+]

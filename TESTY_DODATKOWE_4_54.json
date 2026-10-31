@@ -1,0 +1,8 @@
+{
+  "triage_csv_file": "gray454_priorytety.csv",
+  "audit_figure_count": 96,
+  "mesh_manifest_file": "gray454_siatki.json",
+  "import_status": "regionalny_model_3d_444.glb · 2106 trójkątów; renderer CPU wyświetla próbkę przy dużych modelach.",
+  "mesh_buttons_after_import": 20,
+  "errors": []
+}

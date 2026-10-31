@@ -1,0 +1,60 @@
+{
+  "rotator_cuff": {
+    "pl": "Stożek rotatorów",
+    "members": [
+      "supraspinatus",
+      "infraspinatus",
+      "teres_minor",
+      "subscapularis"
+    ],
+    "exclude": [
+      "teres_major"
+    ],
+    "references": [
+      "Gray t. 1 PDF s. 419",
+      "Sobotta t. 1 PDF s. 239"
+    ],
+    "note": "Mięsień obły większy nie jest częścią stożka rotatorów."
+  },
+  "axilla": {
+    "pl": "Dół pachowy",
+    "mainContents": [
+      "arteria axillaris",
+      "vena axillaris",
+      "fasciculi plexus brachialis",
+      "nodi lymphatici axillares"
+    ],
+    "references": [
+      "Gray t.1 PDF s. 437"
+    ],
+    "note": "Relacje nerwowo-naczyniowe należy weryfikować na konkretnej rycinie."
+  },
+  "forearm_flexors": {
+    "pl": "Przedramię przednie – warstwy",
+    "layers": {
+      "powierzchowna": [
+        "pronator teres",
+        "flexor carpi radialis",
+        "palmaris longus",
+        "flexor carpi ulnaris"
+      ],
+      "pośrednia": [
+        "flexor digitorum superficialis"
+      ],
+      "głęboka": [
+        "flexor digitorum profundus",
+        "flexor pollicis longus",
+        "pronator quadratus"
+      ]
+    },
+    "references": [
+      "Gray t.1 PDF s. 512"
+    ],
+    "note": "Strona dłoniowa/grzbietowa jest projekcją, nie warstwą preparowania."
+  },
+  "cubital_fossa": {
+    "pl": "Dół łokciowy",
+    "reference": "Gray t.1 PDF s. 493–496",
+    "note": "Przyśrodkowo do bocznie: nerw pośrodkowy, tętnica ramienna (i jej podział), ścięgno mięśnia dwugłowego ramienia; nerw promieniowy w części bocznej."
+  }
+}

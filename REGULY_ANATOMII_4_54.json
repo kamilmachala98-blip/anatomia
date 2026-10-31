@@ -1,0 +1,41 @@
+{
+  "status": "source-guided rules, not figure verification",
+  "rules": [
+    {
+      "id": "rotator_cuff_membership",
+      "members": [
+        "supraspinatus",
+        "infraspinatus",
+        "teres_minor",
+        "subscapularis"
+      ],
+      "excluded": [
+        "teres_major"
+      ],
+      "topic": "stożek rotatorów",
+      "reference": "Gray, tom 1, rozdz. kończyna górna; Sobotta, tom 1, obręcz barkowa"
+    },
+    {
+      "id": "axilla_contents",
+      "structures": [
+        "axillary_artery",
+        "axillary_vein"
+      ],
+      "topic": "dół pachowy",
+      "reference": "Gray, tom 1, rozdz. axilla; szczegóły pęczków wymagają kontroli planszy"
+    },
+    {
+      "id": "flexor_layers",
+      "intermediate": [
+        "fds"
+      ],
+      "deep": [
+        "fdp",
+        "fpl",
+        "pronator_quadratus"
+      ],
+      "topic": "warstwy mięśni przedniego przedziału przedramienia",
+      "reference": "Gray, tom 1, rozdz. forearm; mapowanie identyfikatorów zależne od bazy"
+    }
+  ]
+}

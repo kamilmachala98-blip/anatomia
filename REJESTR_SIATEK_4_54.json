@@ -1,0 +1,409 @@
+{
+  "status": "DEMOs, not anatomical reconstruction",
+  "total_meshes": 20,
+  "source_scene_triangles": 1053,
+  "glb_triangles_previous_report": 2106,
+  "note": "JSON scene contains 1053 triangle records; GLB was reported with 2106 triangles; no equivalence claimed until reconciled.",
+  "meshes": {
+    "scapula": {
+      "id": "scapula",
+      "pl": "Łopatka",
+      "la": "Scapula",
+      "kind": "bone",
+      "triangles": 7,
+      "bbox": {
+        "min": [
+          -1.04,
+          -0.91,
+          -0.33
+        ],
+        "max": [
+          0.31,
+          0.64,
+          -0.18
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "scapular_spine": {
+      "id": "scapular_spine",
+      "pl": "Grzebień łopatki",
+      "la": "Spina scapulae",
+      "kind": "bone",
+      "triangles": 36,
+      "bbox": {
+        "min": [
+          -0.9553,
+          0.1304,
+          -0.5085
+        ],
+        "max": [
+          0.4478,
+          0.5799,
+          -0.281
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "acromion": {
+      "id": "acromion",
+      "pl": "Wyrostek barkowy",
+      "la": "Acromion",
+      "kind": "bone",
+      "triangles": 27,
+      "bbox": {
+        "min": [
+          0.3736,
+          0.443,
+          -0.5144
+        ],
+        "max": [
+          0.93,
+          0.684,
+          -0.1227
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "coracoid": {
+      "id": "coracoid",
+      "pl": "Wyrostek kruczy",
+      "la": "Processus coracoideus",
+      "kind": "bone",
+      "triangles": 27,
+      "bbox": {
+        "min": [
+          0.2001,
+          0.3115,
+          -0.1554
+        ],
+        "max": [
+          0.5954,
+          0.6107,
+          0.2066
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "clavicle": {
+      "id": "clavicle",
+      "pl": "Obojczyk",
+      "la": "Clavicula",
+      "kind": "bone",
+      "triangles": 45,
+      "bbox": {
+        "min": [
+          -1.169,
+          0.5617,
+          -0.1412
+        ],
+        "max": [
+          0.6623,
+          0.8705,
+          0.5369
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "glenoid_cavity": {
+      "id": "glenoid_cavity",
+      "pl": "Wydrążenie stawowe łopatki (model)",
+      "la": "Cavitas glenoidalis",
+      "kind": "bone",
+      "triangles": 160,
+      "bbox": {
+        "min": [
+          0.3,
+          -0.21,
+          -0.27
+        ],
+        "max": [
+          0.44,
+          0.27,
+          -0.03
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "humerus": {
+      "id": "humerus",
+      "pl": "Kość ramienna — trzon",
+      "la": "Humerus",
+      "kind": "bone",
+      "triangles": 36,
+      "bbox": {
+        "min": [
+          0.5608,
+          -1.5857,
+          -0.1773
+        ],
+        "max": [
+          0.9898,
+          -0.1489,
+          0.1677
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "humeral_head": {
+      "id": "humeral_head",
+      "pl": "Głowa kości ramiennej",
+      "la": "Caput humeri",
+      "kind": "bone",
+      "triangles": 160,
+      "bbox": {
+        "min": [
+          0.42,
+          -0.15,
+          -0.3
+        ],
+        "max": [
+          0.9,
+          0.33,
+          0.14
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "greater_tubercle": {
+      "id": "greater_tubercle",
+      "pl": "Guzek większy kości ramiennej",
+      "la": "Tuberculum majus",
+      "kind": "bone",
+      "triangles": 160,
+      "bbox": {
+        "min": [
+          0.75,
+          0.06,
+          -0.28
+        ],
+        "max": [
+          0.97,
+          0.34,
+          -0.04
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "supraspinatus": {
+      "id": "supraspinatus",
+      "pl": "Mięsień nadgrzebieniowy",
+      "la": "Musculus supraspinatus",
+      "kind": "muscle",
+      "triangles": 36,
+      "bbox": {
+        "min": [
+          -0.6621,
+          0.2266,
+          -0.5282
+        ],
+        "max": [
+          0.6493,
+          0.5422,
+          -0.282
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "infraspinatus": {
+      "id": "infraspinatus",
+      "pl": "Mięsień podgrzebieniowy",
+      "la": "Musculus infraspinatus",
+      "kind": "muscle",
+      "triangles": 36,
+      "bbox": {
+        "min": [
+          -0.7361,
+          -0.4997,
+          -0.686
+        ],
+        "max": [
+          0.6375,
+          0.1296,
+          -0.234
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "teres_minor": {
+      "id": "teres_minor",
+      "pl": "Mięsień obły mniejszy",
+      "la": "Musculus teres minor",
+      "kind": "muscle",
+      "triangles": 36,
+      "bbox": {
+        "min": [
+          -0.4754,
+          -0.6472,
+          -0.4788
+        ],
+        "max": [
+          0.6832,
+          -0.0868,
+          -0.231
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "teres_major": {
+      "id": "teres_major",
+      "pl": "Mięsień obły większy",
+      "la": "Musculus teres major",
+      "kind": "muscle",
+      "triangles": 36,
+      "bbox": {
+        "min": [
+          -0.8158,
+          -0.8573,
+          -0.4079
+        ],
+        "max": [
+          0.6966,
+          -0.3914,
+          0.1506
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "subscapularis": {
+      "id": "subscapularis",
+      "pl": "Mięsień podłopatkowy",
+      "la": "Musculus subscapularis",
+      "kind": "muscle",
+      "triangles": 36,
+      "bbox": {
+        "min": [
+          -0.7396,
+          -0.4784,
+          -0.144
+        ],
+        "max": [
+          0.6216,
+          0.086,
+          0.264
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "deltoid": {
+      "id": "deltoid",
+      "pl": "Mięsień naramienny — model poglądowy",
+      "la": "Musculus deltoideus",
+      "kind": "muscle",
+      "triangles": 36,
+      "bbox": {
+        "min": [
+          0.6089,
+          -0.859,
+          0.0074
+        ],
+        "max": [
+          1.3021,
+          0.6152,
+          0.5959
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "biceps_brachii": {
+      "id": "biceps_brachii",
+      "pl": "Mięsień dwugłowy ramienia (brzusiec)",
+      "la": "Musculus biceps brachii",
+      "kind": "muscle",
+      "triangles": 36,
+      "bbox": {
+        "min": [
+          0.6012,
+          -1.4828,
+          0.1838
+        ],
+        "max": [
+          0.9222,
+          -0.1141,
+          0.4874
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "triceps_long": {
+      "id": "triceps_long",
+      "pl": "Głowa długa mięśnia trójgłowego ramienia",
+      "la": "Caput longum musculi tricipitis brachii",
+      "kind": "muscle",
+      "triangles": 36,
+      "bbox": {
+        "min": [
+          0.3106,
+          -1.6612,
+          -0.4966
+        ],
+        "max": [
+          0.7517,
+          -0.3982,
+          -0.2021
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "axillary_artery": {
+      "id": "axillary_artery",
+      "pl": "Tętnica pachowa (schemat przebiegu)",
+      "la": "Arteria axillaris",
+      "kind": "vessel",
+      "triangles": 40,
+      "bbox": {
+        "min": [
+          -0.0464,
+          -0.5318,
+          0.2351
+        ],
+        "max": [
+          0.6409,
+          0.4815,
+          0.354
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "axillary_vein": {
+      "id": "axillary_vein",
+      "pl": "Żyła pachowa (schemat)",
+      "la": "Vena axillaris",
+      "kind": "vessel",
+      "triangles": 32,
+      "bbox": {
+        "min": [
+          -0.1397,
+          -0.3045,
+          0.2842
+        ],
+        "max": [
+          0.4329,
+          0.5097,
+          0.425
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    },
+    "median_nerve": {
+      "id": "median_nerve",
+      "pl": "Nerw pośrodkowy (schemat)",
+      "la": "Nervus medianus",
+      "kind": "nerve",
+      "triangles": 35,
+      "bbox": {
+        "min": [
+          0.087,
+          -1.493,
+          0.3325
+        ],
+        "max": [
+          0.7362,
+          0.4517,
+          0.4576
+        ]
+      },
+      "source": "autorska geometria poglądowa; jednostki arbitralne"
+    }
+  }
+}

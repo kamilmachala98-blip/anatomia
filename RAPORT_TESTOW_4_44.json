@@ -1,0 +1,31 @@
+{
+  "assetCount": 96,
+  "thumbnails": 96,
+  "imageMetadataRefs": 123,
+  "activeMappingCount": 104,
+  "archivedMismatchCount": 7,
+  "sourceAnatomyVisuallyReviewed": 6,
+  "fullyVerifiedFigures": 0,
+  "newMeshCount": 20,
+  "newMeshTriangles": 2106,
+  "runtimeTests": {
+    "navQuality": 1,
+    "assets": 96,
+    "points": 104,
+    "structure": "infraspinatus",
+    "marker": 1,
+    "qaVisible": true,
+    "quizVisible": true,
+    "cardsVisible": true,
+    "errors": []
+  },
+  "verifiedModelAnatomy": false,
+  "WebGL2Tested": false,
+  "largeSingleFileBrowserTested": false,
+  "GLBImportInCanvas2D": {
+    "model": "regionalny_model_3d_444.glb",
+    "parsedMeshes": 20,
+    "triangles": 2106,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "bark_tyl_418": {
+    "topic": "grupa tylna barku",
+    "ref": "Gray tom 1 PDF s. 419; Sobotta tom 1 PDF s. 239",
+    "finding": "Mięsień podgrzebieniowy i obły większy wskazane w przybliżonych obszarach. Rozpoznanie detaliczne bez potwierdzenia.",
+    "status": "przegląd-wstępny"
+  },
+  "bark_pacha_418": {
+    "topic": "dół pachowy",
+    "ref": "Gray tom 1 PDF s. 437; Sobotta tom 1 PDF s. 239",
+    "finding": "Duże pęczki naczyniowo-nerwowe widoczne, ale szczegóły i przebieg gałęzi z ilustracji generatywnej pozostają niezweryfikowane.",
+    "status": "wymaga-kontroli-detalicznej"
+  },
+  "forearm_palmar_hyper": {
+    "topic": "przedramię dłoniowe",
+    "ref": "Gray tom 1 PDF s. 512; Sobotta tom 1 PDF s. 202",
+    "finding": "Położenia głównych grup mięśni mogą służyć do orientacji. Odróżnić powierzchowną, pośrednią i głęboką warstwę; mapa nie jest zarejestrowanym preparatem.",
+    "status": "przegląd-wstępny"
+  },
+  "forearm_dorsal_hyper": {
+    "topic": "przedramię grzbietowe",
+    "ref": "Gray tom 1 PDF ss. 529–531; Sobotta tom 1 PDF s. 202",
+    "finding": "Troczek prostowników i ścięgna zaznaczono orientacyjnie. Trzeba sprawdzić rzeczywiste przedziały prostowników i rozgałęzienia nerwów.",
+    "status": "wymaga-kontroli-detalicznej"
+  },
+  "dłon_palm_418": {
+    "topic": "dłoń",
+    "ref": "Sobotta tom 1 PDF s. 250; Rohen–Yokochi, ujęcia ręki",
+    "finding": "Przebieg gałęzi naczyniowych i łuków dłoniowych na rycinie generowanej niepotwierdzony. Nie uczyć się na pamięć poszczególnych gałęzi.",
+    "status": "wymaga-kontroli-detalicznej"
+  },
+  "hand_dorsal_hyper": {
+    "topic": "grzbiet ręki",
+    "ref": "Sobotta tom 1 PDF s. 250; Rohen–Yokochi, ujęcia ręki",
+    "finding": "Rozróżnić troczek prostowników od ścięgien prostowników i sieci żylnej; punkt to tylko orientacyjna lokalizacja.",
+    "status": "przegląd-wstępny"
+  }
+}

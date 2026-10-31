@@ -1,0 +1,72 @@
+[
+  {
+    "iteration": 1,
+    "version": "4.25",
+    "change": "Naprawiono błąd rejestracji sterowania dokiem 3D: działa natychmiast, bez otwierania fiszki.",
+    "bytes_app_js": 48256,
+    "sha256": "336dc9636ab5f29d"
+  },
+  {
+    "iteration": 2,
+    "version": "4.26",
+    "change": "Link do konkretnej ryciny i struktury, z bezpiecznym przywracaniem widoku z adresu URL.",
+    "bytes_app_js": 50081,
+    "sha256": "da7681ddcfb43829"
+  },
+  {
+    "iteration": 3,
+    "version": "4.27",
+    "change": "Skróty: / szukaj, ←/→ ryciny, L etykiety, D punkty, 3 dok 3D, Esc, F ulubione.",
+    "bytes_app_js": 51360,
+    "sha256": "b124da2f87dff673"
+  },
+  {
+    "iteration": 4,
+    "version": "4.28",
+    "change": "Walidacja współrzędnych i bezpieczne etykiety; trening omija zgłoszone, błędne ryciny.",
+    "bytes_app_js": 51547,
+    "sha256": "5631d14ff9237c44"
+  },
+  {
+    "iteration": 5,
+    "version": "4.29",
+    "change": "Widoczny stan oznaczeń w liście; statystyka pokrycia regionu z oddzieleniem błędnych punktów.",
+    "bytes_app_js": 51961,
+    "sha256": "1845b14a7c23f3f7"
+  },
+  {
+    "iteration": 6,
+    "version": "4.30",
+    "change": "Zwiększono liczbę powiązanych rycin i zachowano filtr widoku i warstwy podczas wyboru struktury.",
+    "bytes_app_js": 51979,
+    "sha256": "8f123ca0f09589b0"
+  },
+  {
+    "iteration": 7,
+    "version": "4.31",
+    "change": "Eksport jakości wszystkich aktywnych mapowań do CSV, oprócz dotychczasowego JSON.",
+    "bytes_app_js": 52886,
+    "sha256": "6eabb5f0b5f58391"
+  },
+  {
+    "iteration": 8,
+    "version": "4.32",
+    "change": "Quiz utrwala błędne odpowiedzi i proponuje powtórkę tylko pomylonych struktur.",
+    "bytes_app_js": 53526,
+    "sha256": "3cd7bc86890f9b4b"
+  },
+  {
+    "iteration": 9,
+    "version": "4.33",
+    "change": "Rozwinięto laboratorium 3D o wyszukiwanie nazw siatek, skróty klawiaturowe i jawny opis źródła oraz ograniczeń geometrii.",
+    "bytes_app_js": 53566,
+    "sha256": "5609ba41c2ab3122"
+  },
+  {
+    "iteration": 10,
+    "version": "4.34",
+    "change": "Udostępnianie aktualnego widoku, zliczanie zgłoszonych punktów, spójne wersjonowanie i UI.",
+    "bytes_app_js": 53767,
+    "sha256": "4ee4aac6a3545e72"
+  }
+]
